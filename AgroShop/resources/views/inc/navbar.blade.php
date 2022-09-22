@@ -58,7 +58,7 @@
         <!-- Avatar -->
 
         <div class="dropdown">
-            <button class="btn dropdown-toggle btn-outline-info text-dark" type="button" id="dropdownMenu3" data-toggle="dropdown"
+            <button class="btn dropdown-toggle btn-outline-warning text-dark" type="button" id="dropdownMenu3" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">
 
                 @auth("web")
@@ -71,7 +71,7 @@
                 @guest("web")
                         Логин
                 @endguest
-                <i class="bi bi-box-arrow-in-right btn-outline-info"></i>
+                <i class="bi bi-box-arrow-in-right btn-outline-warning"></i>
             </button>
 
             <div class="dropdown-menu" aria-labelledby="dropdownMenu3">
