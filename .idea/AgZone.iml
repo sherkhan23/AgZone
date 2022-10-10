@@ -115,6 +115,9 @@
       <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/barryvdh/laravel-debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/maximebf/debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/AgroShop/vendor/bumbummen99/shoppingcart" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -109,6 +109,9 @@
       <path value="$PROJECT_DIR$/AgroShop/vendor/psr/container" />
       <path value="$PROJECT_DIR$/AgroShop/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/AgroShop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/AgroShop/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/AgroShop/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/AgroShop/vendor/bumbummen99/shoppingcart" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
